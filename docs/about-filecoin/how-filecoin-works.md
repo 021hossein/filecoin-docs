@@ -1,6 +1,6 @@
 ---
 title: How Filecoin Works
-description: An overview of how the Filecoin network operates - binding clients and miners through storage and retrieval deals.
+description: An overview of how the Filecoin network operates - binding clients and miners through storage and retrieval deals.M,HKHKOJLJLKJ
 ---
 
 # How Filecoin Works
